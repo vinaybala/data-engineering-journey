@@ -4,3 +4,6 @@ created this to practise  scala, spark  using claude
 - Set up WSL2, Git, GitHub repo
 ## Progress Log1
 - Done git checkout, push,pull, Raise PR & Merge into main
+
+## Done chinook sql  exercises
+- done git checkout, push,pull, raise PR and merge into main
